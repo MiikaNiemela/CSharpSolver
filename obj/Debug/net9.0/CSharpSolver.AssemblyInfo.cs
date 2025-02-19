@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CSharpSolver")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bab6cddb271d73231608a124c1c07514c32ef5eb")]
 [assembly: System.Reflection.AssemblyProductAttribute("CSharpSolver")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CSharpSolver")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
