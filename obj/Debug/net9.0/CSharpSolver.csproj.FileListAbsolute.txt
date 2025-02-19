@@ -1,0 +1,14 @@
+C:\Code\CSharpSolver\bin\Debug\net9.0\CSharpSolver.exe
+C:\Code\CSharpSolver\bin\Debug\net9.0\CSharpSolver.deps.json
+C:\Code\CSharpSolver\bin\Debug\net9.0\CSharpSolver.runtimeconfig.json
+C:\Code\CSharpSolver\bin\Debug\net9.0\CSharpSolver.dll
+C:\Code\CSharpSolver\bin\Debug\net9.0\CSharpSolver.pdb
+C:\Code\CSharpSolver\obj\Debug\net9.0\CSharpSolver.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\CSharpSolver\obj\Debug\net9.0\CSharpSolver.AssemblyInfoInputs.cache
+C:\Code\CSharpSolver\obj\Debug\net9.0\CSharpSolver.AssemblyInfo.cs
+C:\Code\CSharpSolver\obj\Debug\net9.0\CSharpSolver.csproj.CoreCompileInputs.cache
+C:\Code\CSharpSolver\obj\Debug\net9.0\CSharpSolver.dll
+C:\Code\CSharpSolver\obj\Debug\net9.0\refint\CSharpSolver.dll
+C:\Code\CSharpSolver\obj\Debug\net9.0\CSharpSolver.pdb
+C:\Code\CSharpSolver\obj\Debug\net9.0\CSharpSolver.genruntimeconfig.cache
+C:\Code\CSharpSolver\obj\Debug\net9.0\ref\CSharpSolver.dll
