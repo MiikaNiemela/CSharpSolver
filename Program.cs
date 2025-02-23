@@ -5,7 +5,7 @@
 
 namespace ProgramOne
 {
-    class HelloWorld
+    class Calculator
     {
         static void Main(string[] args)
         {

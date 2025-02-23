@@ -41,10 +41,17 @@ namespace ProgramOne
                         break;
 
                     case "mathOperator":
+                        // Check that input is exactly one character
+                        // AND (&&)
                         // Check if input is one of: +, -, *, /
                         if (input.Length == 1 && "+-*/".Contains(input))
+                        {
                             return input;
-                        Console.WriteLine("Error: Please enter a valid operator (+, -, *, /).");
+                        } 
+                        else
+                        {
+                            Console.WriteLine("Error: Please enter a valid operator (+, -, *, /).");
+                        }
                         break;
                 }
             }
